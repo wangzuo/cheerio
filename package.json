@@ -19,7 +19,7 @@
     "entities" : "0.x"
   },
   "devDependencies": {
-    "mocha" : "*",
+    "mocha" : "3.1.2",
     "expect.js" : "*"
   },
   "scripts": {
